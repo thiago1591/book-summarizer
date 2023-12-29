@@ -1,6 +1,6 @@
 # Book Summarizer
 
-Esse projeto tem como objetivo resumir ou analisar capítulo por capítulo de um livro
+Esse projeto usa o modelo GPT-4 Turbo para resumir ou analisar cada capítulo de um livro
 
 ## Pré requisitos
 1. Python
@@ -19,3 +19,4 @@ Esse projeto tem como objetivo resumir ou analisar capítulo por capítulo de um
 
 ## Dicas
 1. No arquivo app.py, a variável input_message é referente a mensagem que é enviada para o modelo do GPT. No meu caso, pedi uma análise detalhada de cada capítulo, porém, é possível pedir para a resposta ser mais resumida.
+2. No arquivo app.py é possível mudar para usar o GPT 3.5 invés do 4
