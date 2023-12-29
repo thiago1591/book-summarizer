@@ -2,3 +2,5 @@
 backup
 __pycache__
 output
+book/chapters
+.DS_Store
